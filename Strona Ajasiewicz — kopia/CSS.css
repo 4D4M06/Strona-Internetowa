@@ -1,0 +1,42 @@
+.Witam{
+    color: rgb(9, 21, 128);
+    text-align: center;
+    background-color: rgb(194, 194, 194);
+    padding: 5px;
+    
+}
+body{
+    background-color: rgb(255, 255, 255);
+    margin-left: 24%;
+    margin-right: 24%;
+    font-family:Helvetica;
+}
+header{
+    color: chocolate;
+}
+footer{
+    color: chocolate;
+}
+.info{
+    border: 7px solid rgb(255, 0, 0);
+    text-align: center;
+}
+head{
+    font-family: Helvetica;
+}
+footer{
+    padding: 5px;
+    text-align: center;
+    font-family:Helvetica ;
+    background-color: rgb(194, 194, 194);
+}
+.tworzenie{
+    text-align: center;
+    color: gray;
+}
+.Zdjęcie{
+    float: left;
+}
+.Tekst{
+    font-size: 150%;
+}
